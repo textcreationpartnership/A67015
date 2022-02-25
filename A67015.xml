@@ -1,0 +1,272 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter of advice and comfort to the English captives, who suffer slavery in foreign parts By Josiah Woodward, D.D. minister of Popler.</title>
+            <author>Woodward, Josiah, 1660-1712.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A67015</idno>
+            <idno type="STC">Wing W3518A</idno>
+            <idno type="STC">ESTC R221231</idno>
+            <idno type="EEBO-CITATION">99832570</idno>
+            <idno type="PROQUEST">99832570</idno>
+            <idno type="VID">37044</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A67015)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37044)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2105:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter of advice and comfort to the English captives, who suffer slavery in foreign parts By Josiah Woodward, D.D. minister of Popler.</title>
+                  <author>Woodward, Josiah, 1660-1712.</author>
+               </titleStmt>
+               <extent>[2], 20, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for VVilliam Hawes, at the Rose in Ludgate-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a final advertisement leaf.</note>
+                  <note>Copy not trimmed; with some print fade.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners of war, English --  Religous aspects --  Early works to 1800.</term>
+               <term>Prisoners --  Religious life --  Early works to 1800.</term>
+               <term>Consolation --  Early works to 1800.</term>
+               <term>Suffering --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37044:1" rendition="simple:additions"/>
+            <p>A LETTER OF Advice and Comfort TO THE <hi>Engliſh Captives,</hi> Who Suffer SLAVERY IN Foreign Parts.</p>
+            <p>By <hi>Joſiah Woodward,</hi> D. D. Miniſter of <hi>Popler.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>VVilliam Hawes,</hi> at the <hi>Roſe</hi> in <hi>Ludgate-ſtreet,</hi> 1700.</p>
+            <pb facs="tcp:37044:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="1" facs="tcp:37044:3"/>
+            <pb facs="tcp:37044:2" rendition="simple:additions"/>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:37044:2" rendition="simple:additions"/>
+            <head>To ſuch of the <hi>Engliſh Captives,</hi> Who Suffer SLAVERY IN Foreign Parts, IN TO <hi>Whoſe hands this Paper ſhall come; Grace and Peace in our Lord</hi> Jeſus Chriſt</head>
+            <opener>
+               <salute>My dearly beloved Brother.</salute>
+            </opener>
+            <p>THe all-wiſe Providence of God h<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ing caſt you into a <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> from your ow<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> you cannot enjoy th<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Ordinanc<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> manner <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Counery;</hi> Le<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:37044:4"/> of aſſiſtance in the great concerns of your Soul, <hi>like Sheep without a Shep<g ref="char:EOLhyphen"/>herd<g ref="char:punc">▪</g>
+               </hi> or think your ſelves altogether for<g ref="char:EOLhyphen"/>gotten and unpitied by your Country-men; I have ſent this Letter to you, in the Bowels and Affection of a <hi>Miniſter of Chriſt,</hi> to aſſiſt and comfort you under your pre<g ref="char:EOLhyphen"/>ſent ſufferings, and to further you in the attainment of <hi>everlaſting Reſt:</hi> earneſtly Praying, that the <hi>Grace and Bleſſing of God</hi> may accompany theſe few lines to your effectual Edification and Salvation: in or<g ref="char:EOLhyphen"/>der to which I humbly entreat you ſeriouſ<g ref="char:EOLhyphen"/>ly to peruſe the ſame.</p>
+            <p>In the firſt place. Let me beg of you to conſider the righetous hand of God in your preſent confinement and affliction; and to lay your hand upon your mouth, to ſup<g ref="char:EOLhyphen"/>preſs all murmuring and diſcontent at his Providence. For no man living has any Reaſon to complain againſt God's Govern<g ref="char:EOLhyphen"/>ment: Nor have you the leaſt ground for it in this caſe; whether your paſt Life has been ſpent <hi>profitably</hi> or <hi>unprofitably.</hi> If the former be your happy Caſe, if you have advanced in the Knowledge and practice of all <hi>Chriſtian Dutys</hi> as you ought to have done: It may be, God has providentially diſpoſed your habitation for a time among the <hi>Heathen,</hi> that they might ſee and admire the <hi>Holy Doctrines</hi> and <hi>Heavenly Lives</hi> of <hi>Chriſtians,</hi> and be brought over by your Example to own
+<pb n="3" facs="tcp:37044:4"/> and embrace the <hi>Chriſtian Faith:</hi> as St. <hi>Paul</hi> was ſent <hi>in Chains to Rome,</hi> that the <hi>Goſpel</hi> might flouriſh there <hi>thro' his Bonds.</hi> And if ſo, you have great Hon<g ref="char:EOLhyphen"/>our done you as Gods Meſſingers: and you have the happy opportunity of obtain<g ref="char:EOLhyphen"/>ing the infinite Reward promiſed to <hi>ſuch as turn many to Righteouſneſs.</hi>
+            </p>
+            <p>But if on the <hi>contrary,</hi> your paſt Life, has been very barren and unfruitful of all good, very negligent of the <hi>Ordinances</hi> of the <hi>Goſpel,</hi> and very guilty of ſundry impieties and Immoralities: God here gra<g ref="char:EOLhyphen"/>ciouſly gives you a time to repent and reform, before you go down to remedileſs Torments: You have then no manner of reaſon to complain of hard dealing from the hand of God, but on the contrary to admire his goodneſs and Patience, and to be lifted up in Love and devotion to him, who hath ſpared your Soul from Death, even from <hi>eternal Death and deſtruction,</hi> which is juſtly deſerved by every Sin, and is diſmaily challenged and provoked by a continued courſe of ſin. So that in this Caſe (which is I fear, the moſt uſual) the good providence of God ſeems to in<g ref="char:EOLhyphen"/>tend a double Kindneſs to you, by way of correction.</p>
+            <p>Firſt to make you ſenſible of your great Sin and folly in ſlighting and neglecting the Light, Grace, and Mercy of the <hi>Holy
+<pb n="4" facs="tcp:37044:5"/> Goſpel.</hi> That you might now by ſad ex<g ref="char:EOLhyphen"/>perience be taught how miſerable it is to be deſtitute of <hi>Chriſtian Sermons, Sabaths,</hi> and <hi>Sacraments:</hi> To want the food of ſpi<g ref="char:EOLhyphen"/>ritual Life, the Light of revealed Doctrins, and the converſation of holy and exem<g ref="char:EOLhyphen"/>plary Chriſtians. That you might now long after the publick Service of God, and above all things reliſh <hi>Communion with him thro' his Son</hi> Jeſus Chriſt.</p>
+            <p>And <hi>Secondly,</hi> an other reaſon of Gods good providence in this your affliction may be, to withdraw you from your former <hi>evil Courſes,</hi> and to ſtop that fierce car<g ref="char:EOLhyphen"/>rier in Sin, which might perhaps, in the former poſture of things, have been moral<g ref="char:EOLhyphen"/>ly remedileſs: Had you had your full Li<g ref="char:EOLhyphen"/>berty, your old companions, your former plentiful and unafflicted State, you would perhaps have gone on ſtill in thoſe Sins to which theſe circumſtances induced you before: And ſo you would have daily in<g ref="char:EOLhyphen"/>creaſed in guilt and hardneſs of Heart. But now the ſcene is quite altered, and all things appear <hi>new</hi> to invite you to ſerve God <hi>in newneſs of Life.</hi>
+            </p>
+            <p>We may well ſuppoſe that theſe were the kind intentions of the gracious Provi<g ref="char:EOLhyphen"/>dence of God in this preſent diſpenſation, becauſe we are aſſured from his own word, <hi>That he corrects us for our Profit</hi> (Heb.
+<pb n="5" facs="tcp:37044:5"/> 12. v. 5. <hi>And that he dealeth with us herein as a Father with his Children</hi>) And when you have thorowly learnt theſe Leſſons, which were the cauſe of your be<g ref="char:EOLhyphen"/>ing brought into the <hi>School of Affliction;</hi> you may then comfortably hope that God will find out means that his <hi>Baniſhed be not</hi> finally <hi>expelled;</hi> and that he will bring you to ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e your own Land again, when you know well how to value and improve the mercies of it. As a <hi>Gentleman</hi> uſed to keep little Birds in Cages till they could ſing tunably and artificially, and then turn'd them looſe into his Grove, when they had perfectly gotten their pro<g ref="char:EOLhyphen"/>per Leſſons.</p>
+            <p>I Therefore entreat you, <hi>my Brother,</hi> to look back ſeriouſly upon your paſt Life, and bring every part of it, as near as poſ<g ref="char:EOLhyphen"/>ſible, to the Tryal of Gods <hi>Holy Com<g ref="char:EOLhyphen"/>mandments.</hi> Inquire impartially, by what <hi>Rules</hi> you have lived, from what <hi>Principles</hi> you have acted, and by what <hi>Motives</hi> you have been led? whether you have lived after the <hi>Will of God,</hi> or after your <hi>own Hart's deſire?</hi> and whether your Soul has been chiefly ſway'd by thelove of God or of this preſent World? And where you perceive any marks of your paſt Guilt, raſh neſs, and unthankfulneſs; ſay with the Prophet (Amos. 7. 9.) <hi>I will bear the indignation of the Lord, becauſe I have
+<pb n="6" facs="tcp:37044:6"/> ſinned againſt him.</hi> And then alſo, reti<g ref="char:EOLhyphen"/>ring to the moſt convenient Place that your preſent condition affords, pour out your Soul to God in earneſt prayer and ſay.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <head>A Prayer.</head>
+                        <p>O Moſt wiſe and good God, I humbly acknowledge that all thy ways to<g ref="char:EOLhyphen"/>wards me a moſt ſinful Creature have been infinitly righteous and good. Thou in thy faithfulneſs haſt afflicted me here that I might not periſh for ever. Enable me I pray thee by thy grace to an<g ref="char:EOLhyphen"/>ſwer the merciful Ends of this Afflicted which thou haſt brought upon me. Lead me O God of all grace, unto unfeigned Repentance for all the Iniquitys and unpro<g ref="char:EOLhyphen"/>fit ableneſs of my paſt Life. Forgive methat I have loved darkneſs more than Light, and neglected the miniſtration of thy holy word and Sacraments, and have been more concerned for the things of this Life than that which is to come. I deſire with the deepeſt ſorrow to lament my rejecting of thy Son, my grieving of thy Spirit, and ne<g ref="char:EOLhyphen"/>glecting, that great Salvation which has long been offered me in thy Goſpel. O Lord vouchſafe to give me Repentance and Par<g ref="char:EOLhyphen"/>don of all my grievous offences thro' our exalted Prince and Saviour And make me ever hereafter to live righteouſly, ſoberly
+<pb n="7" facs="tcp:37044:6"/> and godly, as it becometh thy holy Goſpel: to the bleſſed Ordinances and Enjoyments of which, I beſeech thee, in thy due time to reſtore me; and make me to adorn the holy profeſſion of a Chriſtian in all righteouſneſs and and true holineſs. And during my preſent Want of thoſe gracious inſtitutions, vouchſafe, O Lord, to commu<g ref="char:EOLhyphen"/>nicate the riches of thy Grace to me in ſuch other ways and means as to thine infinite Wiſdom ſhall ſeem good, that I may not be as a dead branch broken off from the true Vine, but may now and ever be accounted of the number of thy true <hi>Iſrael,</hi> thy be<g ref="char:EOLhyphen"/>loved people in our Lord and Saviour <hi>Jeſus Chriſt,</hi> for whoſe ſake, vouchſafe to here me and accept me, together with theſe my unworthy Prayers, in whoſe bleſſed Name and words, I humbly conclude them. <hi>Our Father which,</hi> &amp;c.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>In the <hi>next place</hi> I deſire you to conſider the awfulneſs, ſolemnity, and ſtrictneſs of your <hi>Chriſtian Vows</hi> made in your <hi>Baptiſm,</hi> and renewed a freſh (if you have indeed lived as a <hi>Chriſtian</hi>) at the <hi>Holy Table</hi> of our Lord. It is not a light matter to make a Promiſe to the <hi>Almighty Soveraign of the World;</hi> but to make <hi>Solemn Vows</hi> to him before choſen Witneſſes, and in the face of a <hi>Chriſtian Congregation,</hi> and to ſeal this in the <hi>Blood of Chriſt,</hi> that blood which is of infinite worth, and which ſhews the
+<pb n="8" facs="tcp:37044:7"/> greateſt Love and Pity to us that ever was ſeen in the World, which has a vertue to <hi>waſh away Sin,</hi> and to <hi>open the Kingdom of Heaven</hi> to ſuch as are purified thereby: How <hi>Sacred,</hi> how <hi>ſtrict,</hi> how <hi>tremendous</hi> are ſuch <hi>Vows!</hi> And how ſorely will our Righteous God avenge every wilful Viola<g ref="char:EOLhyphen"/>tion and ſlight of them? This is called a <hi>trampling on Chriſt's blood,</hi> and the ſoreſt puniſhment is threatned to ſuch tranſgreſ<g ref="char:EOLhyphen"/>ſions: eſpecialy to ſuch as turn Renegado's and deny this Faith into which they were Baptized <hi>in the name of the Father, the Son, and the Holy Ghoſt;</hi> becauſe <hi>they count the blood of the Covenant an unholy thing;</hi> they count the Lord <hi>Jeſus Chriſt</hi> an Impoſtor and a wicked cheat, and con<g ref="char:EOLhyphen"/>ſequently his blood vile and baſe, and a Covenant with him a deſpicable and hate<g ref="char:EOLhyphen"/>ful thing to be renounced and abandoned. And they <hi>do deſpight to the ſpirit of Grace;</hi> they treat that Holy, gracious and Eternal Spirit with Scorn and Hatred; tho' it be that Spirit which alone can prepare us for Eternal Salvation. So that this is the moſt wretched and deſperate Caſe that we can imagine, for it follows, <hi>Vengeance is mine I will repay, ſaith the Lord.</hi> They ſhall feel the inutterable wrath of an <hi>Al<g ref="char:EOLhyphen"/>mighty God</hi> in it's moſt horrible Execution upon them for ever, except they deeply Repent. You have all this, <hi>Hebr.</hi> 10. 28, 29, 30. Where it is alſo added in the next
+<pb n="9" facs="tcp:37044:7"/> verſe. <hi>It is a fearful thing to fall into the hands of the living God.</hi> So dreadful indeed, that the wiſe and good Men of all Ages have choſen rather to be <hi>Sawn a ſun<g ref="char:EOLhyphen"/>der,</hi> or <hi>Torn with wild Beaſts,</hi> or give <hi>their Bodies to be broil'd</hi> and expoſed to all the Miſeries that men could invent or inflict, than to deny their Faith, and thereby fall under the Vengeance of <hi>Almighty God</hi> to all Eternity. And the leaſt grain of Faith muſt needs conſtrain us all to do the like, thro' the grace of God; for what propor<g ref="char:EOLhyphen"/>tion is there betwixt the Anger of a frail man like our ſelves who <hi>can but hurt our bodys</hi> and that but for a <hi>little while;</hi> and the diſpleaſure of an <hi>Eternal and Omnipo<g ref="char:EOLhyphen"/>tent God,</hi> who can puniſh us not only with all bodily tortures, but with ſuch horror and deſolation of Soul as far exceeds them, and that not only for Millions of Millions of Ages, but time without End.</p>
+            <p>Conſider therefore, <hi>my Brother,</hi> that you have devoted your ſelf entirely to God thro our Lord <hi>Jeſus Chriſt,</hi> to your Life's end. And that to do otherwiſe will be the blackeſt <hi>Perjury, Sacrilege,</hi> and <hi>Apoſ<g ref="char:EOLhyphen"/>tacy:</hi> So that your Eternal Hope leanes on your upright diſcharge of this contract, made with God your Saviour in this ſo<g ref="char:EOLhyphen"/>lemn tranſaction of the <hi>Baptiſmal Cove<g ref="char:EOLhyphen"/>nant.</hi> And be you well aſſured, That there is <hi>Salvation in no other</hi> Perſon but in
+<pb n="10" facs="tcp:37044:8"/> that of our <hi>Lord and Saviour Jeſus Chriſt.</hi> And that you may cleave ſtedfaſtly to him with all your Soul in Profeſſion and in Practice, let me deſire you to conſider theſe few things,</p>
+            <p n="1">1. That our <hi>Bleſſed Saviour</hi> propoſes no<g ref="char:EOLhyphen"/>thing to us in order to our Salvation but what is <hi>Excellent, Admirable,</hi> and <hi>Advan<g ref="char:EOLhyphen"/>tagious</hi> in it ſelf. To love God above all, to beleive and truſt in him who came to lead us from Sin and Diſtruction, to love our Brethern as our ſelves, to Pity and Pray for our Enemies, and to live ſoberly and honeſtly in the courſe of our Lives: how ſweet and lovely are theſe things, which are ſet to keep us from brutal Luſts, and infernal paſſions, to lift up our Souls to the likeneſs of God, and the dignity of holy Angels.</p>
+            <p n="2">2. Conſider, that our <hi>Bleſſed Lord and Saviour</hi> will be ready to aſſiſt you by his <hi>holy Spirit</hi> in all the work that he re<g ref="char:EOLhyphen"/>quires at your hands. He will help you to ſubdue your corruptions, to conquer temp<g ref="char:EOLhyphen"/>tations to bear afflictions, and in ſhort, to paſs undefiled thro' this preſent World, and to attain the bleſſedneſs of the other. He has aſſured us, that he will as readily <hi>give his holy Spirit</hi> for thoſe ends to ſuch as dnely ſeek him, as ever <hi>Parent gave a bit of Bread to his own Child</hi> crying to him
+<pb n="11" facs="tcp:37044:8"/> for hunger. <hi>Luke.</hi> 11. 9, 10, 11, 12, 13. See alſo <hi>Ezek.</hi> 36. from the 25 verſe to the end of the Chapter.</p>
+            <p n="3">3. Conſider that the term of our pre<g ref="char:EOLhyphen"/>ſent Life is very uncertain, and at the ut<g ref="char:EOLhyphen"/>moſt very ſhort. Whether we live well or ill, we ſhall ſoon finiſh our Courſe. The mirth of wicked People is but ſhort at the beſt: and the Labors and ſufferings of good People are but ſhort at the worſt. We ſhall ſoon have done with this proba<g ref="char:EOLhyphen"/>tional Life, <hi>for our days upon Earth are but as a ſhadow (1 Chron.</hi> 29. 15.) And there is this vaſt difference in the preſent courſe of things between good and bad people. That the wicked Mans pleaſures dye in the enjoyment, and inward darkneſs and regret ſprings up in their room, if he has any ſenſe left: But the good man's Difficulties are leſſen'd every moment, and there is an eternal founda<g ref="char:EOLhyphen"/>tion of comfort laid hereby. The wicked perſon has a <hi>little Sunſhine</hi> in the morning, as <hi>Sodom</hi> had; and like it, is ſuddenly overwhelm'd by a <hi>ſhower of Fire, and Brim<g ref="char:EOLhyphen"/>ſtone.</hi> And the faithful Chriſtian, has a little <hi>bad Weather</hi> perhaps in the morning, but he is riding out of it into <hi>perfect ſe<g ref="char:EOLhyphen"/>renity and Bliſs.</hi> The one ſays with <hi>Jo<g ref="char:EOLhyphen"/>nathan, I have taſted a little Honey, and I muſt dye for it.</hi> The other ſays, with St. <hi>Paul, I have fought a good Fight, I
+<pb n="12" facs="tcp:37044:9"/> have finiſhed my Courſe, I have kept the Faith; henceforth there's laid up for me a Crown of Righteouſnſs.</hi> (2 Tim. 4, 7.) And this leads me to another conſiderra<g ref="char:EOLhyphen"/>tion, which I beſeech you to keep up always in its Vigor in your breaſt; which is.</p>
+            <p n="4">4. The exalted <hi>Degree</hi> and Eternal <hi>Du<g ref="char:EOLhyphen"/>ration</hi> both of the Rewards and Puniſh<g ref="char:EOLhyphen"/>ments of the world to come. <hi>The wicked ſhall go away into Everlaſting Puniſhment. But the Righteous, into Life Eternal.</hi> Math. 25. 46. Conſider, <hi>my Brother,</hi> you cannot hold your hand in the fire which burns on your Hearth for one hour, with<g ref="char:EOLhyphen"/>out ſuch Anguiſh as you reckon intolerable: How <hi>can you then dwell with everlaſting Burnings!</hi> And this in utter Darkneſs! in company with other howling deſpera<g ref="char:EOLhyphen"/>does, and mocking Devils! Where is our ſenſe, and our ſelf-love, when we do not ſtrive to eſcape this place of Torment? For it is the amazing aggravation of theſe miſeries, that they never end. How dole<g ref="char:EOLhyphen"/>ful a thought is it that after all the time we can think of is ſpent, there will ſtill be as much torture to come to the damned as at the Firſt moment in which they en<g ref="char:EOLhyphen"/>tered into it! Let not ſuch a thought as this paſs off haſtily <hi>my Brother,</hi> but give your mind leiſure to <hi>conſider</hi> it till it kills the very thought and deſire of ſinful injoy<g ref="char:EOLhyphen"/>ments
+<pb n="13" facs="tcp:37044:9"/> which are but for a moment. Suppoſe therefore, that a nimble Writer did ſet himſelf for one whole day to ad<g ref="char:EOLhyphen"/>vance the bigeſt ſumm in Numeration that he was able: How vaſt would the num<g ref="char:EOLhyphen"/>ber of Years be that he would ſet down before Night! every ſingle figure that he made towards the cloſe of his Labour would contain an inconceivable term of time, and the whole ſumm would utterly aſtoniſh us.</p>
+            <p>Now, I would ask any one who beleives a Life to come, whether of theſe two conditions is to be choſen, either to live <hi>threeſcore and ten years</hi> (the common Age of man) in the love and ſervice of God, and then to enjoy all deſirable Bleſ<g ref="char:EOLhyphen"/>ſings for all <hi>thoſe Millions of years</hi> which would be contained in that ſumm before mentioned? Or, on the other hand, To live according to our fooliſh and extrava<g ref="char:EOLhyphen"/>gant Will for the ſpace of <hi>Seventy years</hi> and then to ly in flames and exquiſite tor<g ref="char:EOLhyphen"/>tures for ſuch a <hi>vaſt and aſtoniſhing term of Years,</hi> as the aforeſaid <hi>Arithmetician</hi> had ſet down? In this caſe: every one would ſpeedily determine for the ſervice of God, and the bleſſed Hope that attends it. And yet, this is nothing of a paral<g ref="char:EOLhyphen"/>lel caſe to Eternity. For tho', not onely that one man, but every perſon in the World, added <hi>ſumm</hi> to <hi>ſumm</hi> throughout their whole Life, and if all the Angels,
+<pb n="14" facs="tcp:37044:10"/> good and bad, threw in all the <hi>Numbers</hi> that they were able, to ſwell the prodigi<g ref="char:EOLhyphen"/>ous Account to the utmoſt Advance they could and after this double and treble the <hi>whole</hi> to the utmoſt that your mind can imagine: Yet ſtill there is more in this one word <hi>Eternity</hi> than all this. And we may hence learn, what wonders a lively Faith in the <hi>Goſpel of our Lord</hi> would be able to do, were it duely improved and excited! It would not only remove <hi>Mountains,</hi> but the <hi>whole World,</hi> when ever it ſtood in our way to <hi>Heaven:</hi> and we ſhould with great ſcorn and indignation ſay, <hi>what ſhould I be advantaged, if I gain'd the whole World, and loſt my immortal Soul by the bargain?</hi>
+            </p>
+            <p>Fix your mind ſeriouſly on theſe things, <hi>my Brother;</hi> till you find your heart <hi>affect<g ref="char:EOLhyphen"/>ed</hi> with the meditation, and then direct your Soul with fervor to the <hi>Throne of Grace,</hi> and ſay.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <hi>O</hi> Bleſſed God who art the Light and Life and Bliſs of all thy Creatures, vouchſafe I beſeech thee, to pity and pardon me a vile Creature that have long lived in darkneſs and folly and Unbelief. How little have I conſidered the weighty things of thy Law, and the diſmal conſe<g ref="char:EOLhyphen"/>quences of tranſgreſſing it. I have been blinded, and hardned by unbelief and incon<g ref="char:EOLhyphen"/>ſideration, and the love of this World, and have not duely deny'd my ſinful Luſts and
+<pb n="15" facs="tcp:37044:10"/> Paſſions, nor faithfully employ'd thy Ta<g ref="char:EOLhyphen"/>lents. O Lord vouchſafe to pardon all my paſt enormities thro' the Blood of attone<g ref="char:EOLhyphen"/>ment ſhed by our Lord <hi>Jeſus Chriſt,</hi> whom it pleaſed thee to appoint as a propitiation for our Sins and a mediator for Sinners. And be pleaſed of thy goodneſs to deter<g ref="char:EOLhyphen"/>mine my Soul unalterably for thy Kingdom and the Righteouſneſs thereof, in oppoſition to all the allurements of the World, the Fleſh, and the Devil. And grant that thro' the gracious conduct of thy Bleſſed Spirit I may daily advance in all grace; and may overcome all the temptations of things ſeen, by a firm Belief of things in<g ref="char:EOLhyphen"/>viſible. O Lord, vouchſafe to ſettle and envigorate my faith in the Eternity of thoſe rewards and Puniſhments which thou haſt been pleaſed to annex to our good or Evil deeds: and make me with earneſtneſs and conſtancy to do good and eſchew Evil: that I may ſo live to thee whilſt I live, that I may dy to thee when I dy; and may be thine to all Eternity thro' our Lord <hi>Jeſus Chriſt,</hi> to whom with thee O Father! and the eternal Spirit, be all Bleſſing, Honour, Glory, and Power aſcribed by Angels and Men for evermore, <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>Suppoſing therefore, <hi>my Brother,</hi> (as in charity I muſt) that you will rather chuſe to live or dy in the moſt painful and wretched outward circumſtances, than to
+<pb n="16" facs="tcp:37044:11"/> renounce your God and Saviour, and part with your Religion and the hope of Eter<g ref="char:EOLhyphen"/>nal Life through it. Your next care muſt be to walk worthy of that <hi>Holy and Vene<g ref="char:EOLhyphen"/>rable name</hi> that you bear, that is, of a <hi>Chriſtian.</hi> That the <hi>Name of our Lord</hi> Jeſus Chriſt <hi>be not blaſphemed</hi> by the Heathen by reaſon of our evil deeds; but that they may <hi>ſee your good works and glorify your Father which is in Heaven.</hi> You are reputed to have been brought up in the School of <hi>Chriſt:</hi> and unbeleivers will be prying into your actions to ſee what there is in <hi>Chriſtianity</hi> above other Religions, and will judge of it according to what they obſerve in you, be it good or bad. O what a motive is this to the ſtricteſt <hi>Vertue</hi> and <hi>Piety!</hi> Since your <hi>Lord and Maſter</hi> will be accounted a <hi>Divine and Bleſſed Saviour,</hi> or a <hi>baſe cheat and Impoſtor,</hi> according to your good or bad behaviour. <hi>Yea,</hi> and ſome of thoſe <hi>Infi<g ref="char:EOLhyphen"/>dels</hi> who might have been brought over to your Religion by your ſingular Piety, will aſſuredly be hardened againſt it by your looſeneſs and debauchery. So that here are two of the moſt conſtraining con<g ref="char:EOLhyphen"/>ſiderations to induce you to holineſs of Life, beſides thoſe other which have been already laid before you: which ought to conſtrain you to ſhun all appearance of Evil: and to make you careful to ſhew before an <hi>unbeleiving People</hi> what Purity,
+<pb n="17" facs="tcp:37044:11"/> meekneſs, Sobriety, Patience, Charity, and integrity our <hi>holy Religion</hi> teaches and produces, <hi>Oh!</hi> dare not ſwear, lye, curſe, or cheat; or to be drunk, paſſionate, cla<g ref="char:EOLhyphen"/>mororous, or abuſive: But in meekneſs and <hi>patience poſſeſs ye your Souls,</hi> as <hi>having your converſation in Heaven,</hi> and your <hi>hearts ſet on things above.</hi> And then, God will in his time, either remove you to <hi>your own Land,</hi> or what's better, to his: <hi>heavenly Kingdom.</hi> In the contemplation of which, you may humbly addreſs your ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf to your <hi>Heavenly Sovereign</hi> and ſay.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>
+                           <hi>O</hi> Lord, the Creator and Judge of all, who art of infinite holineſs and per<g ref="char:EOLhyphen"/>fection, and haſt determined that without holineſs no man ſhall ſee thy recon<g ref="char:EOLhyphen"/>ciled Face, Be pleaſed, I humbly beſeech thee, to ſave me from my Sins thro' our Lord and Saviour <hi>Jeſus Chriſt,</hi> and by thine holy Spirit to ſanctify me in Soul and Body, that I may glorify<g ref="char:punc">▪</g> thy name on Earth and do the work which thou haſt given me to do. Vouchſafe, good God, to work in me that purity of heart, to which thou haſt promiſed an infinitly bleſſed viſion. And make me to glorify thine holy name amongſt theſe ſtrangers to the common<g ref="char:EOLhyphen"/>wealth of Iſrael amongſt w<gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>om I ſojourn: And be pleaſed to take from them all hard<g ref="char:EOLhyphen"/>neſs of Heart, all unbeleif, and diſobedi<g ref="char:EOLhyphen"/>ence to thy holy will, that they alſo may at
+<pb n="18" facs="tcp:37044:12"/> laſt be ſaved amongſt thy true and faith<g ref="char:EOLhyphen"/>ful People. That we may all with one heart and mouth glorify thee, and rejoice in thy Salvation thro' <hi>Jeſus Chriſt,</hi> sour onely mediator and Redeemer. <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And now, my Brother, having ſhewn you the never failing way to true Content<g ref="char:EOLhyphen"/>ment here, and to eternal happineſs here<g ref="char:EOLhyphen"/>after; Let not the <hi>bitterneſs</hi> of any tem<g ref="char:EOLhyphen"/>poral ſufferings leaven your Soul: nor run you into ſullenneſs, frowardneſs, or the withdrawing of your heart from God. Be you aſſured, that God hath brought many a perſon whom he hath greatly loved into worſe ſorrows and ſtreights than you are burthened with all. The beloved Diſciple, St, <hi>Jobn,</hi> was baniſhed and con<g ref="char:EOLhyphen"/>fined to <hi>Patmos,</hi> a deſolate and uncomfor<g ref="char:EOLhyphen"/>table Iſland: and we read of ſome excel<g ref="char:EOLhyphen"/>lent men of <hi>whom the World was not worthy, who wandered about in Sheep<g ref="char:EOLhyphen"/>ſkins, and Goats-ſkins, in deſarts, and Dens, and Caves of the Earth, being deſ<g ref="char:EOLhyphen"/>titute, afflicted, tormented;</hi> and yet they would not <hi>accept deliverance</hi> upon ſinful terms, becauſe they fixed their hearts on the hope of <hi>Heavenly enjoyments.</hi> Heb. (11. 37. 38.) It ought therefore to be your care to acquit your ſelf, as they did, in every point of Chriſtian duty, with all good conſcience; that you, with them, may partake of that <hi>Reſt which remaineth to the People of God.</hi>
+            </p>
+            <pb n="19" facs="tcp:37044:12"/>
+            <p>And upon the whole, as you would per<g ref="char:EOLhyphen"/>form any of the foregoing Duties in an acceptable manner, or injoy any of theſe great Bleſſings relating to this or the other world, you <hi>muſt be much in</hi> Prayer and ear<g ref="char:EOLhyphen"/>neſt devotion to God, the <hi>giver of all Grace,</hi> who <hi>will be found of ſuch as truly ſeek his face,</hi> thro' his beloved Son <hi>Jeſus Chriſt</hi> our only <hi>mediator</hi> and <hi>Redeemer.</hi>
+            </p>
+            <p>And if it ſhall pleaſe his <hi>infinite</hi> good<g ref="char:EOLhyphen"/>neſs to reſtore you to your former Liberty and <hi>Enjoyments;</hi> be ſure to live in per<g ref="char:EOLhyphen"/>petual thankfulneſs for ſuch a ſingular mercy, duely anſwering the ends of it by a ſerious and truly Chriſtian Life. For, if your temporal Liberty when obtained, ſhould become an occaſion of your ſink<g ref="char:EOLhyphen"/>ing under the ſlavery of ſinful <hi>Luſts</hi> and Paſſions; it were infinitly better that you remained all your days under the moſt bitter and diſco<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſolate Thraldom in this world: becauſe no chains on Earth can ſit ſo heavy as thoſe of eternal Darkneſs werewith the Devil is bound, and where<g ref="char:EOLhyphen"/>withall he ſeeks to load us. Labour there<g ref="char:EOLhyphen"/>fore, my Brother, to obtain ſuch firmneſs in the ways of God as no Proſperity nor Ad<g ref="char:EOLhyphen"/>verſity may ever ſhock, And then, if it pleaſe God to ſet you free, lift up<g ref="char:punc">▪</g> your devout Soul to God with great fervency and ſay.</p>
+            <q>
+               <pb n="20" facs="tcp:37044:13"/>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="prayer">
+                        <p>UNto thee, O moſt gracious and merciful God who heareſt Prayer, unto thee ſhall all Fleſh come: thee will I praiſe with all the Faculties and <hi>Powers</hi> of my thankful Soul, for that thou haſt heard me in my Diſtreſs, and haſt by thy good Providence delivered me from mine Oppreſſors. When thou waſt pleaſed to rebuke me for my Sin and folly and to bind me with affliction and Iron: Yet I was not utterly forſaken of thy mercy, but I found thy gracious Supports under my Trouble, and at laſt, bleſs'd be thy Name, thou haſt broken my Yoke, and ſet me at Liberty. O Suffer not this deſirable en<g ref="char:EOLhyphen"/>joyment to be an occaſion to the Fleſh: keep me, I beſeech thee by thy grace, that I fall not under that worſe ſlavery of ſin<g ref="char:EOLhyphen"/>ful <hi>Luſts</hi> and Paſſions: but make me par<g ref="char:EOLhyphen"/>taker of that Redemption from Sin and Hell which is purchaſed for us by the blood of thy beloved Son, and is offered to ſinners in thy bleſſed Goſpel: to the privileges of which as thy good providence has now mercifully reſtored me, ſo let thine holy Spirit lead me in thoſe ways of perfect Li<g ref="char:EOLhyphen"/>berty which thou haſt therein ordained for us that living to thy praiſe I may dy in thy peace, and be for ever thine thro' <hi>Jeſus Chriſt</hi> our Bleſſed Lord and Saviour, <hi>Amen.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:37044:13"/>
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>THere are ſome other little uſeful Books, proper to be had and read by all</hi> Marriners <hi>and</hi> Sea-faring-Peo<g ref="char:EOLhyphen"/>ple; <hi>ſuch as</hi> The Religious-Seaman, The Paſtoral-Letter, from a Mini<g ref="char:EOLhyphen"/>ſter to his Pariſhioners, The Chri<g ref="char:EOLhyphen"/>ſtians Daily-Devotion, The Chri<g ref="char:EOLhyphen"/>ſtian Monitor, and the Familiar Guide to the Lord's-Supper. <hi>All which may be had for about</hi> 18 d. <hi>and much Cheaper in Quantities.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
